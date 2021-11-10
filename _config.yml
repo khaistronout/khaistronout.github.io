@@ -1,11 +1,11 @@
-title: 'Khai Uta'
-email: contact.khaiuta@gmail.com
+title: 'Khai'
+email: khai.contact@gmail.com
 timezone: UTC
-baseurl: '/'
+baseurl: '/anjay'
 permalink: ':title/'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Khai
 paginate: 30
 disqus: 'demowebsite'
 locale: id
@@ -28,7 +28,7 @@ authors:
     name: Khai
     display_name: Khai
     avatar: 'assets/images/khai-uta-icon-web.jpg'
-    email: wowthemesnet@gmail.com
+    email: khai.contact@gmail.com
     web: https://khaiuta.my.id
     twitter: https://twitter.com/ThuanOgeb
     description: 'orang yang ingin jadi presiden'
@@ -36,7 +36,7 @@ authors:
     name: khai
     display_name: khai
     avatar: 'assets/images/khai-uta-icon-web.jpg'
-    email: aata014@gmail.com
+    email: khai.contact@gmail.com
     web: https://khaiuta.blogspot.com
     twitter: https://twitter.com/
     description: 'Pegen jadi presiden'

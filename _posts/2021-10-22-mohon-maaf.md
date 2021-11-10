@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "first post"
+title:  "Mohon Maaf, Blog Masih Dalam Pemuatan"
 author: Khai
 categories: [ tutorial ]
 image: assets/images/img0.jpg

@@ -16,15 +16,14 @@ topmenu:
 
 # Footer Menu
 footermenu:
-  - title: Home
-    url: ''
+  - title: ToS
+    url: 'terms-conditions/'
 
   - title: Privacy Policy
-    url: 'privacy-policy/'
+    url: 'privacy/'
 
   - title: Contact
     url: 'contact/'
 
-  - title: DC Studio
-    url: #
-    external: true
+  - title: Disclaimer
+    url: disclaimer/
