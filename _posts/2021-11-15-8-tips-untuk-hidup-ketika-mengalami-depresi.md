@@ -32,7 +32,7 @@ Saat Kamu sedang stres, tubuh Kamu memproduksi lebih banyak hormon yang disebut 
 
 Namun, dalam jangka panjang, hal itu dapat menyebabkan banyak masalah bagi Kamu, termasuk depresi. Semakin banyak Kamu menggunakan teknik untuk mengurangi stres , semakin baik karena akan mengurangi risiko Kamu menjadi depresi.
 
-### 3. Tingkatkan Kebersihan Tidur Kamu
+### 3. Tingkatkan Kualitas Tidur Kamu
 
 Tidur dan suasana hati berhubungan erat. Sebuah studi tahun 2014 menemukan bahwa 80% orang dengan gangguan depresi mayor mengalami gangguan tidur.
 
