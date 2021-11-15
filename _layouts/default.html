@@ -27,6 +27,18 @@
       gtag('config', '{{site.ganalytics}}');
     </script>
     {% endif %}
+
+    <!--- onesignal -->
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      window.OneSignal = window.OneSignal || [];
+      OneSignal.push(function () {
+        OneSignal.init({
+          appId: '21724689-4b3f-414e-a66d-8eeb9eeb42dd',
+        });
+      });
+    </script>
+    <!--- one signal end-->
   </head>
 
   {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}

@@ -9,10 +9,9 @@ topmenu:
   - title: Contact
     url: 'contact/'
 
-  - title: Follow Site
-    url: #
+  - title: Buy Me Coffe
+    url: 'traktir/'
     class: 'ml-2 btn btn-dark text-white px-3'
-    external: true
 
 # Footer Menu
 footermenu:
