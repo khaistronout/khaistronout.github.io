@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-xxxxxxxxxx
+ganalytics: UA-3054328654
 
 # Authors
 authors:
