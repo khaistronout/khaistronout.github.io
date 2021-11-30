@@ -67,13 +67,25 @@ Untuk Spot foto sendiri di ambil dari pengalaman saya ya menurrut saya tidak usa
 
 Namun sayang bangettt kita tidak diperbolehkan membawa kamera profesional ke dalam, kecuali untuk kebutuhan yang sudah di setujui OWNER.
 
-![](assets/images/sunrise.jpg)![](assets/images/penginapan-terbaik.jpg)![](assets/images/rinjani-dengan-kucing.jpg)![](assets/images/pemandangan-langit-malam.jpg)![](assets/images/pajar.jpg)![](assets/images/pemandangan-rinjani.jpg)![](assets/images/bunga-dan-sawah.jpg)
+![](https://khai.my.id/assets/images/sunrise.jpg)
+
+![](https://khai.my.id/assets/images/penginapan-terbaik.jpg)
+
+![](https://khai.my.id/assets/images/rinjani-dengan-kucing.jpg)
+
+![](https://khai.my.id/assets/images/pemandangan-langit-malam.jpg)
+
+![](https://khai.my.id/assets/images/pajar.jpg)
+
+![](https://khai.my.id/assets/images/pemandangan-rinjani.jpg)
+
+![](https://khai.my.id/assets/images/bunga-dan-sawah.jpg)
 
 **RAGAM WISATA**
 
 Wisata yang di tawarkan di Aranka Tempasan juga cukup beragam, kita bisa melakukan arung jeram, bersepeda dengan fibes persawahan yang luar biasa alami nan cantik dan berbagai wisata lainnya, namun saya saya tidak melakukan wisata itu satupun wkwk karena mager pak/buk.
 
-![](assets/images/sungai.jpg)
+![](https://khai.my.id/assets/images/sungai.jpg)
 
 **PELAYANAN & MAKANAN**
 
@@ -83,7 +95,9 @@ Dan di imbangi dengan beragam makanan yang uenak tenan dan lumayan aestethic, po
 
 Woahh menulis artikel ini mengingatkan saya akan pengalam yang luar biasa yang saya dapatkan di Aranka Tempasan, jadi ingin kembali kesana lagiii. Tapi kapan kapan lah ya, Btw jika kamu mau boleh lah kontak-kontak admin khai rumah admin deket kok dari Ranka Tempasan, nanti berangkat bareng ( tapi teraktir saya ya? wkwkwk ).
 
-![](assets/images/makan-malam.jpg)![inin adalah menu begibung yang tersedia di aranka tempasan. ](assets/images/begibung.jpg "Menu Begibung di Aranka Tempasan")
+![](https://khai.my.id/assets/images/makan-malam.jpg)
+
+![](https://khai.my.id/assets/images/begibung.jpg)
 
 #### KETERANGAN
 
@@ -99,7 +113,9 @@ Fasilitas : Area parkir, Kamar mand(i cukup berkelas), tempat duduk, penginapan,
 
 Selain itu juga seperti apa yang saya bilang di atas, di Aranka Tempasan juga terdapat kafe yang menjual berbagai makanan seperti sosis, nugget, spageti, nasi goreng, dan kentang goreng. Beragam Jenis minuman pun juga tersedia mulai dari minuman bersoda, teh, hingga kopi. Harga mulai dari 7000an hingga pulahan ribu.
 
-![](assets/images/sore-hari.jpg)![](assets/images/caffe-sore.jpg)
+![](https://khai.my.id/assets/images/sore-hari.jpg)
+
+![](https://khai.my.id/assets/images/caffe-sore.jpg)
 
 ##### LOKASI
 
