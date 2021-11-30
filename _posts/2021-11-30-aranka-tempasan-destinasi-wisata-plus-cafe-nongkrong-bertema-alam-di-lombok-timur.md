@@ -55,7 +55,11 @@ Selain itu fasilitas umum lainya sepert cafe / resto, tempat nongkrong, tempat b
 
 ![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
 
-![](https://khai.my.id/assets/images/bebalek-tengah.jpg)![](https://khai.my.id/assets/images/suasana-malam.jpg)![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
+![](https://khai.my.id/assets/images/bebalek-tengah.jpg)
+
+![](https://khai.my.id/assets/images/suasana-malam.jpg)
+
+![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
 
 **SPOT FOTO**
 
