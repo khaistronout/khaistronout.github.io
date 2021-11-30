@@ -21,6 +21,8 @@ Yaps itu sedikit yang saya warning ke para pembaca, mohon sebisanya di pahami ya
 
 \~ _Selamat Membaca_ \~
 
+![](https://khai.my.id/assets/images/penginapan.jpg)
+
 ## ARANKA TEMPASAN
 
 Aranka Tempasan sebenarnya adalah sebuah resort & penginapan yang terletak di Dusun Tempasan, Desa Pringgasela, Kecamatan Pringgasela, Lombok Timur.
@@ -56,6 +58,8 @@ Selain itu fasilitas umum lainya sepert cafe / resto, tempat nongkrong, tempat b
 ![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
 
 ![](https://khai.my.id/assets/images/bebalek-tengah.jpg)
+
+![](https://khai.my.id/assets/images/sanggar.jpg)
 
 ![](https://khai.my.id/assets/images/suasana-malam.jpg)
 
