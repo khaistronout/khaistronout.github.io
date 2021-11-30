@@ -8,9 +8,9 @@ categories:
 image: assets/images/aranka-thumbnail.png
 
 ---
-# WISATA ARANKA TEMPASAN
-
 ![](https://khai.my.id/assets/images/penginapan.jpg)
+
+# WISATA ARANKA TEMPASAN
 
 Hai disini khai dan di artikel ini kita akan membahas seuah destinasi wisata menururt pengalaman saya setelah mengunjungi tempat wisata tersebut.
 
