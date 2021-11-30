@@ -47,9 +47,15 @@ Di Aranka Tempasan ini hanya tersedia 3 kamar saya ( Seperti Bungalow ), dan kam
 
 Selain itu fasilitas umum lainya sepert cafe / resto, tempat nongkrong, tempat bermain, juga tersedia.
 
-![](https://khai.my.id/assets/images/kamar-mandi.jpg)![](https://khai.my.id/assets/images/penampakan-rumah-inap.jpg)![](https://khai.my.id/assets/images/dalam-bebalek-tengah.jpg)
+![](https://khai.my.id/assets/images/kamar-mandi.jpg)
 
-![](assets/images/sanggar.jpg)![](https://khai.my.id/assets/images/bebalek-tengah.jpg)![](https://khai.my.id/assets/images/suasana-malam.jpg)![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
+![](https://khai.my.id/assets/images/penampakan-rumah-inap.jpg)
+
+![](https://khai.my.id/assets/images/dalam-bebalek-tengah.jpg)
+
+![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
+
+![](https://khai.my.id/assets/images/bebalek-tengah.jpg)![](https://khai.my.id/assets/images/suasana-malam.jpg)![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
 
 **SPOT FOTO**
 
