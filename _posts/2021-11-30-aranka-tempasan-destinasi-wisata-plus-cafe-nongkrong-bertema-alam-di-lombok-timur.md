@@ -3,7 +3,8 @@ layout: post
 title: ARANKA TEMPASAN - Destinasi wisata plus cafe nongkrong bertema alam di Lombok
   Timur
 author: Khai
-categories: []
+categories:
+- WISATA
 image: assets/images/aranka-thumbnail.png
 
 ---
