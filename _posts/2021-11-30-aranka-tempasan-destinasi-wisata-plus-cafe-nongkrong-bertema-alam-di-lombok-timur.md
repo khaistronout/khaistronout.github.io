@@ -7,7 +7,7 @@ categories: []
 image: assets/images/aranka-thumbnail.png
 
 ---
-# ARANKA TEMPASAN - TEMPAT PENGINAPAN, KAFE NONGKRONG DAN RESORT ALAMI DI LOMBOK TIMUR
+# WISATA ARANKA TEMPASAN
 
 Hai disini khai dan di artikel ini kita akan membahas seuah destinasi wisata menururt pengalaman saya setelah mengunjungi tempat wisata tersebut.
 
@@ -23,9 +23,9 @@ Yaps itu sedikit yang saya warning ke para pembaca, mohon sebisanya di pahami ya
 
 ## ARANKA TEMPASAN
 
-Aranka Tempasan sebenarnya adalah sebuah resort & penginapan yang terletak di Dusun Tempasan, Desa Pringgasela, Kecamatan Pringgasela, Lombok Timur. 
+Aranka Tempasan sebenarnya adalah sebuah resort & penginapan yang terletak di Dusun Tempasan, Desa Pringgasela, Kecamatan Pringgasela, Lombok Timur.
 
-Aranka tempasan ini umumnya di kenal seagai penginapan serta objek wisata, namun kita juga bisa hanya sekedar nongkrong sambil menikmati pemandangan alam sekitar yang WAHHH karena Aranka Tempasan ini sendiri menyediakan sebuah cafe bertema semi outdor. 
+Aranka tempasan ini umumnya di kenal seagai penginapan serta objek wisata, namun kita juga bisa hanya sekedar nongkrong sambil menikmati pemandangan alam sekitar yang WAHHH karena Aranka Tempasan ini sendiri menyediakan sebuah cafe bertema semi outdor.
 
 Penginapan di Aranka Tempasan mengusung tema konsep rumah petani (bebale' bangket) yang tentu saja bangunanya di dominasi dengan kayu dan bambu namun dengan tetap mengutamakan kenyamanan serta peralatan modern yang minimalis.
 
@@ -37,7 +37,7 @@ Bukan hanya untuk turis asing melainkan di buka untuk masyaraka umum juga.
 
 ### PENGALAMAN
 
-Menginaplah disini minimal semalam, pemandangan yang di suguhkan sungguh luar biasa indah. dengan jarak yang tidak begitu jauh dari jalan trans di kota masbagik hanya sekitar 30 menitan saja pastinya tidak akan sulit menemukan tempat ini. 
+Menginaplah disini minimal semalam, pemandangan yang di suguhkan sungguh luar biasa indah. dengan jarak yang tidak begitu jauh dari jalan trans di kota masbagik hanya sekitar 30 menitan saja pastinya tidak akan sulit menemukan tempat ini.
 
 **FASILITAS YANG DISEDIAKAN**
 
@@ -47,7 +47,9 @@ Di Aranka Tempasan ini hanya tersedia 3 kamar saya ( Seperti Bungalow ), dan kam
 
 Selain itu fasilitas umum lainya sepert cafe / resto, tempat nongkrong, tempat bermain, juga tersedia.
 
-![](assets/images/kamar-mandi.jpg)![](assets/images/penampakan-rumah-inap.jpg)![](assets/images/dalam-bebalek-tengah.jpg)![](assets/images/bebalek-tengah.jpg)![](assets/images/sanggar.jpg)![](assets/images/suasana-malam.jpg)![](assets/images/suasana-lampu-malam.jpg)
+![](https://khai.my.id/assets/images/kamar-mandi.jpg)![](https://khai.my.id/assets/images/penampakan-rumah-inap.jpg)![](https://khai.my.id/assets/images/dalam-bebalek-tengah.jpg)
+
+![](assets/images/sanggar.jpg)![](https://khai.my.id/assets/images/bebalek-tengah.jpg)![](https://khai.my.id/assets/images/suasana-malam.jpg)![](https://khai.my.id/assets/images/suasana-lampu-malam.jpg)
 
 **SPOT FOTO**
 
@@ -59,15 +61,15 @@ Namun sayang bangettt kita tidak diperbolehkan membawa kamera profesional ke dal
 
 **RAGAM WISATA**
 
-Wisata yang di tawarkan di Aranka Tempasan juga cukup beragam, kita bisa melakukan arung jeram, bersepeda dengan fibes persawahan yang luar biasa alami nan cantik dan berbagai wisata lainnya, namun saya saya tidak melakukan wisata itu satupun wkwk karena mager pak/buk. 
+Wisata yang di tawarkan di Aranka Tempasan juga cukup beragam, kita bisa melakukan arung jeram, bersepeda dengan fibes persawahan yang luar biasa alami nan cantik dan berbagai wisata lainnya, namun saya saya tidak melakukan wisata itu satupun wkwk karena mager pak/buk.
 
 ![](assets/images/sungai.jpg)
 
 **PELAYANAN & MAKANAN**
 
-Dan sari segi pelayanan di Aranka Tempasan sendiri sungguh memuaskan, dengan pelayan yang super ramah dan asik tidak kaku. 
+Dan sari segi pelayanan di Aranka Tempasan sendiri sungguh memuaskan, dengan pelayan yang super ramah dan asik tidak kaku.
 
-Dan di imbangi dengan beragam makanan yang uenak tenan dan lumayan aestethic, pokoknya moooik (mantap). 
+Dan di imbangi dengan beragam makanan yang uenak tenan dan lumayan aestethic, pokoknya moooik (mantap).
 
 Woahh menulis artikel ini mengingatkan saya akan pengalam yang luar biasa yang saya dapatkan di Aranka Tempasan, jadi ingin kembali kesana lagiii. Tapi kapan kapan lah ya, Btw jika kamu mau boleh lah kontak-kontak admin khai rumah admin deket kok dari Ranka Tempasan, nanti berangkat bareng ( tapi teraktir saya ya? wkwkwk ).
 
@@ -79,11 +81,11 @@ Jam buka : 24 jam
 
 Tiket Masuk : Rp 10.000,
 
-Parkir : Roda 2 = 2000, Roda 4 = 5000, roda 3 = YNTKTS 
+Parkir : Roda 2 = 2000, Roda 4 = 5000, roda 3 = YNTKTS
 
 ( parkir di urus oleh pemuda setempat bukan tanggungan Aranka Tempasan )
 
-Fasilitas : Area parkir, Kamar mand(i cukup berkelas), tempat duduk, penginapan, spot foto. 
+Fasilitas : Area parkir, Kamar mand(i cukup berkelas), tempat duduk, penginapan, spot foto.
 
 Selain itu juga seperti apa yang saya bilang di atas, di Aranka Tempasan juga terdapat kafe yang menjual berbagai makanan seperti sosis, nugget, spageti, nasi goreng, dan kentang goreng. Beragam Jenis minuman pun juga tersedia mulai dari minuman bersoda, teh, hingga kopi. Harga mulai dari 7000an hingga pulahan ribu.
 
@@ -91,14 +93,14 @@ Selain itu juga seperti apa yang saya bilang di atas, di Aranka Tempasan juga te
 
 ##### LOKASI
 
-Kalian bisa dengan mudah menemukan lokasi ARANKA TEMPASAN dari google maps. 
+Kalian bisa dengan mudah menemukan lokasi ARANKA TEMPASAN dari google maps.
 
-Jarak dari pusat kota Mataram sekitar 50 km dengan waktu tempuh skitar 1.5 jam - 2 jam. 
+Jarak dari pusat kota Mataram sekitar 50 km dengan waktu tempuh skitar 1.5 jam - 2 jam.
 
-Kondisi jalan cukup bagus juga besar yang artinya pengunjung bisa memakai motor maupun mobil, hanyasaja 50 meter dari jalan masuk terdapat jalan bertanah namun tidak begitu menyulitkan. 
+Kondisi jalan cukup bagus juga besar yang artinya pengunjung bisa memakai motor maupun mobil, hanyasaja 50 meter dari jalan masuk terdapat jalan bertanah namun tidak begitu menyulitkan.
 
-###### PENUTUP 
+###### PENUTUP
 
-Oke sampai di akhir artikel, saya ucapkan banyak-banyak termakasih untuk para pembaca yan sudah membaca artikel ini hingga akhir dan menurut saya Aranka Tempasan ini sangat layak di kunjungi. dan cukup dulu sampai di sini artikel yang saya tuliskan semoga para pembaca menikmatinya dan mendapat manfaat dari arikel ini. 
+Oke sampai di akhir artikel, saya ucapkan banyak-banyak termakasih untuk para pembaca yan sudah membaca artikel ini hingga akhir dan menurut saya Aranka Tempasan ini sangat layak di kunjungi. dan cukup dulu sampai di sini artikel yang saya tuliskan semoga para pembaca menikmatinya dan mendapat manfaat dari arikel ini.
 
 Akhir kata dari saya.. jaga kesehatan, tetap mempunyai harapan, **ADIOS** minna-san.
