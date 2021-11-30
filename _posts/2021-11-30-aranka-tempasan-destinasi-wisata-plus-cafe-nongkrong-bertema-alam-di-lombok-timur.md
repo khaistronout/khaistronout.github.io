@@ -10,6 +10,8 @@ image: assets/images/aranka-thumbnail.png
 ---
 # WISATA ARANKA TEMPASAN
 
+![](https://khai.my.id/assets/images/penginapan.jpg)
+
 Hai disini khai dan di artikel ini kita akan membahas seuah destinasi wisata menururt pengalaman saya setelah mengunjungi tempat wisata tersebut.
 
 Namun bukan hanya dari saya saja, di sini saya akan memperlihatkan juga tanggapan dari beberapa pengunjung yang pernah berkunjung di ARANKA TEMPASAN ini.
@@ -21,8 +23,6 @@ Namun sebelum ke pembahasannya saya sedikit memberikan WARNING kepada para pemba
 Yaps itu sedikit yang saya warning ke para pembaca, mohon sebisanya di pahami ya agar tidak terjadi missunderstanding.
 
 \~ _Selamat Membaca_ \~
-
-![](https://khai.my.id/assets/images/penginapan.jpg)
 
 ## ARANKA TEMPASAN
 
