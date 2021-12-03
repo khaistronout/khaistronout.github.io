@@ -25,13 +25,13 @@ Namun walaupun jaraknya tidak begitu jauh dan dengan rute serta keadaan jalan ya
 
 ![](https://khai.my.id/assets/images/Pantai-Mawun-khai.my.id-fasilitas-1.jpg)
 
-![](https://khai.my.id/assets/images/jalan-dipantai-mawun.jpg)
-
 Oke sekian penjelasan tentang Pantai Mawun, Sekarang saya akan memberikan sedikit pengalaman saya ketika mengunjungi Pantai Mawun.
 
 ### Pengalaman Mengunjungi Pantai Mawun
 
 Hal pertama yang saya dapatkan ketika mengunjungi pantai mawun ini adalah bagian jalan yang sudah lumayan bagus dan nyaman ketika berkendara menuju lokasi pantai, Namun perlu berhati hati karena adanya hewan ternak warga yang suka lewat di jalan-jalan menuju lokasi pantai.
+
+![](assets/images/jalan-dipantai-mawun.jpg)
 
 Setelah sampai di dalam area pantai, kita bisa langsung memarkirkan kendaraan kita di lahan parkir yang sudah di sediakan pengurus, dan kita bisa langsung gas menuju pinggir pantai.
 
