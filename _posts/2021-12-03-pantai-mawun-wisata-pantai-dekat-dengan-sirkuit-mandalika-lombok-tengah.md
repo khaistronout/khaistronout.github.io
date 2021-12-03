@@ -11,7 +11,9 @@ image: https://khai.my.id/assets/images/pantai-mawun-lombok.png
 
 # PANTAI MAWUN
 
-Halo selamat datang di khai.my.id. Artikel kaliini kita akan membahas destinasi wisata yang sangat ciamik dengan nuansa pantai alami yang masih belum tersentuh banyak wisatawan. Namun sebelum itu alangkah baiknya temen-temen bisa mengikuti blog saya ini agar saya bisa lebih bersemangat untuk membuat konten yang lebih bagus lagi tentunya, dan untuk yang sudah mengikuti blog saya ini, dengan segenap hati saya ucapkan terimakasih banyak.
+Halo selamat datang di khai.my.id
+
+Artikel kaliini kita akan membahas destinasi wisata yang sangat ciamik dengan nuansa pantai alami yang masih belum tersentuh banyak wisatawan. Namun sebelum itu alangkah baiknya temen-temen bisa mengikuti blog saya ini agar saya bisa lebih bersemangat untuk membuat konten yang lebih bagus lagi tentunya, dan untuk yang sudah mengikuti blog saya ini, dengan segenap hati saya ucapkan terimakasih banyak.
 
 ## Pantai Mawun Lombok tengah
 
