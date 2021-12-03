@@ -4,7 +4,7 @@ title: PANTAI MAWUN - Wisata pantai dekat dengan sirkuit mandalika Lombok Tengah
 author: Khai
 categories:
 - WISATA
-image: https://khai.my.id/assets/images/pantai-mawun-lombok.png
+image: assets/images/pantai-mawun-lombok.png
 
 ---
 ![](https://khai.my.id/assets/images/Pantai-Mawun-khai.my.id-9.jpg)
