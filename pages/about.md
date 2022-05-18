@@ -26,7 +26,3 @@ Final words from me. . . _ADIOS_
 **Facebook**   :  www.facebook.com/KhaiUta
 
 **YouTube**     :  www.youtube.com/KhaiUta
-
-**MY OTHER WEBSITE**
-
-www.khaiuta.blogspot.com
