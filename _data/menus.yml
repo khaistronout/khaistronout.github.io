@@ -3,22 +3,25 @@ topmenu:
   - title: Home
     url: ''
 
-  - title: About
-    url: 'about/'
-
-  - title: Contact
-    url: 'contact/'
-
+  - title: WISATA
+    url: 'categories#WISATA/'
+    
   - title: Buy Me Coffe
     url: 'traktir/'
+
+  - title: Search 🔍
+    url: 'search/'
     class: 'ml-2 btn btn-dark text-white px-3'
 
 # Footer Menu
 footermenu:
+  - title: About
+    url: 'about/'
+    
   - title: ToS
     url: 'terms-conditions/'
 
-  - title: Privacy Policy
+  - title: Privacy
     url: 'privacy/'
 
   - title: Contact
