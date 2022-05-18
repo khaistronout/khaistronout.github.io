@@ -3,13 +3,13 @@ topmenu:
   - title: Home
     url: ''
 
-  - title: WISATA
+  - title: Wisata
     url: 'categories#WISATA/'
     
   - title: Buy Me Coffe
     url: 'traktir/'
 
-  - title: Search 🔍
+  - title: Search...🔍
     url: 'search/'
     class: 'ml-2 btn btn-dark text-white px-3'
 
